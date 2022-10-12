@@ -25,7 +25,7 @@
   "team": "Red Bull",
   "wins": "32 races win",
   "age": 25,
-  "img": "https://www.racetrackmasters.com/wp-content/uploads/2022/01/Max-Verstappen-could-be-banned-from-racing-in-2022.jpg"
+  "img": "https://elintranews.com/wp-content/uploads/2021/04/Max-Verstappen.jpg"
   },
   {
   "id": 4,
@@ -107,6 +107,78 @@
   "wins": "0 races win",
   "age": 23,
   "img": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2021preseason/AstonMartinlaunch/GP2013_115529_J5A0464.jpg"
+  },
+  {
+  "id": 13,
+  "name": "Kevin Magnussen",
+  "nationality": "Denmark 🇩🇰",
+  "team": "Haas",
+  "wins": "0 races win",
+  "age": 30,
+  "img": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2020/2020races/Sakhir/1018028610-LAT-20200217-_56I1773-224.jpg"
+  },
+  {
+  "id": 14,
+  "name": "Alex Albon",
+  "nationality": "Thailand 🇹🇭",
+  "team": "Williams",
+  "wins": "0 races win",
+  "age": 26,
+  "img": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/EmiliaRomagnaGP/Friday/WilliamsF1_57757_HiRes.jpg"
+  },
+  {
+  "id": 15,
+  "name": "Yuki Tsunoda",
+  "nationality": "Japan 🇯🇵",
+  "team": "Alpha Tauri",
+  "wins": "0 races win",
+  "age": 22,
+  "img": "https://www.racefans.net/wp-content/uploads/2020/11/Yuki-Tsunoda-Biography.jpg"
+  },
+  {
+  "id": 16,
+  "name": "Mick Schumacher",
+  "nationality": "Germany 🇩🇪",
+  "team": "Haas",
+  "wins": "0 races win",
+  "age": 23,
+  "img": "https://www.formula1.com/content/dam/fom-website/Upgrade/2021BahrainGPManualAdds/Sunday/GettyImages-1309453589.jpg"
+  },
+  {
+  "id": 17,
+  "name": "Nicholas Latifi",
+  "nationality": "Canada 🇨🇦",
+  "team": "Williams",
+  "wins": "0 races win",
+  "age": 27,
+  "img": "https://www.formula1.com/content/dam/fom-website/Upgrade/2021FIAPoolImages/HungarySunday/WILLIAMS_HUNGARY_SUNDAY_02.jpg"
+  },
+  {
+  "id": 18,
+  "name": "Lando Norris",
+  "nationality": "Great Britain 🇬🇧",
+  "team": "Mclaren",
+  "wins": "0 races win",
+  "age": 22,
+  "img": "https://cdn.sportslumo.com/wp-content/uploads/2021/09/27175246/Lando-Norris-compressed.jpg"
+  },
+  {
+  "id": 19,
+  "name": "Valtteri Bottas",
+  "nationality": "Finland 🇫🇮",
+  "team": "Alfa Romeo",
+  "wins": "10 races win",
+  "age": 33,
+  "img": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/AlfaRomeoLaunch/BOT_TeamWear_Black_0857.jpg"
+  },
+  {
+  "id": 20,
+  "name": "Guanyu Zhou",
+  "nationality": "China 🇨🇳",
+  "team": "Alfa Romeo",
+  "wins": "0 races win",
+  "age": 23,
+  "img": "https://news.easydownload21.com/wp-content/uploads/2022/09/skysports-zhou-guanyu-alfa-romeo_5911500-0Ig11P.jpeg"
   }
   ]
 }
