@@ -13,12 +13,12 @@ const getDrivers = async() => {
 
 const printDrivers = (list, word) => {
     const filteredDrivers = list.filter((item) => 
-    item.name.toLowerCase().includes(word)
+    item.name.toLowerCase().includes(word.toLowerCase())
     );
     const driverContainer = document.querySelector(".dri");
     driverContainer.innerHTML = "";
     
-    for (const item of list) {
+    for (const item of filteredDrivers) {
         driverContainer.innerHTML += `
         <figure>
             <div>
@@ -50,6 +50,6 @@ export const Drivers = () => {
     getDrivers();
 
 const searchInput = document.querySelector("#search");
-searchInput.addEventListener("input", (a) => printDrivers(driversList, console.log(a)));
+searchInput.addEventListener("input", (ev) => printDrivers(driversList, ev.target.value));
 };
 
