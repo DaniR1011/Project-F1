@@ -3,7 +3,7 @@ import { cleanPage } from "../../utils/cleanPage";
 
 export const Home = () => {
     const app = document.querySelector("#app");
-    cleanPage(app);
+    // cleanPage(app);
     app.innerHTML = `
     <section class="home">
         <h1>Formula 1 Web</h1>
