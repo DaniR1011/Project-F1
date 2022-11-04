@@ -32,10 +32,7 @@ const printDrivers = (list, word) => {
         </figure>
     `
     }
-driverContainer.innerHTML += `<p><a href="#">Back to top</a></p>`
-// const app = document.querySelector(".dri");
-// cleanPage(app);
-// app.appendChild(driverContainer);
+quesContainer.innerHTML += `<p><a href="#">Back to top</a></p>`
 };
 
 export const Drivers = () => {
@@ -44,7 +41,9 @@ export const Drivers = () => {
     // section.classList.add("drivers-section");
     app.innerHTML = `
     <h2 class="title" id="#">Drivers Grid 2022</h2>
-    <section> <input type="text" id="search" placeholder="Search a driver:"/> </section>
+    <section> 
+        <input type="text" id="search" placeholder="Search a driver:"/> 
+    </section>
     <div class="dri"></div>
     `;
     getDrivers();
